@@ -15,6 +15,9 @@ The project was built **iteratively**, starting from a basic CNN and gradually e
 
 ---
 ## Screenshots
+<img width="1920" height="1080" alt="Screenshot 2026-01-20 141914" src="https://github.com/user-attachments/assets/2a503b80-00a6-45a7-bd50-3b6fbc3fd6ad" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-20 141927" src="https://github.com/user-attachments/assets/3cbc0883-97a4-42bb-837f-74fb89f15233" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-20 141938" src="https://github.com/user-attachments/assets/190a6853-18c3-4e63-ac1e-3bc92599398e" />
 
 ---
 ## 🗂 Dataset Structure
@@ -150,5 +153,6 @@ If you want, I can also:
 - Add **badges (accuracy, TensorFlow, Streamlit)**
 - Rewrite it to match **FAANG-style ML project READMEs**
 - Add **demo screenshots / GIF sections**
+
 
 Just say the word.
