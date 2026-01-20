@@ -24,9 +24,9 @@ The project was built **iteratively**, starting from a basic CNN and gradually e
 
 The dataset is organized as:
 
-data/
-├── cats/
-└── dogs/
+data\
+├── cats\
+└── dogs
 
 
 Before training, the dataset is **automatically scanned and cleaned** to remove:
@@ -100,7 +100,7 @@ This approach significantly improved **generalization** and **training efficienc
 
 ### 1️⃣ Install Requirements
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 2️⃣ Run the App
 
@@ -109,9 +109,6 @@ streamlit run app.py
 📁 Project Structure
 
 cats-dogs-classifier/
-├── data/
-│   ├── cats/
-│   └── dogs/
 ├── models.py              # Training, preprocessing, model loading
 ├── app.py                 # Streamlit application
 ├── cat_dog_classifier.h5
@@ -147,12 +144,3 @@ Feel free to fork this repository and experiment with:
 
 This project is open-source and available under the MIT License.
 
-
-If you want, I can also:
-- Optimize this for **GitHub recruiters**
-- Add **badges (accuracy, TensorFlow, Streamlit)**
-- Rewrite it to match **FAANG-style ML project READMEs**
-- Add **demo screenshots / GIF sections**
-
-
-Just say the word.
